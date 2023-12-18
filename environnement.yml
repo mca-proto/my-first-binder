@@ -1,0 +1,35 @@
+name: env_shapely
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - plotly
+  - rasterio
+  - pandas
+  - shapely
+  - osmnx
+  - numpy
+  - jupyter
+  - geopandas
+  - gpxpy
+  - movingpandas
+  - geoviews
+  - stonesoup
+  - pyarrow
+  - pyrosm
+  - contextily
+  - memory_profiler
+  - xarray
+  - dask
+  - rioxarray
+  - scikit-image
+  - seaborn
+  - pyogrio
+  - psycopg2
+  - geoalchemy2
+  - faker
+  - openpyxl
+  - pooch
+  - netcdf4
+  - cfgrib
+  - geoplot
